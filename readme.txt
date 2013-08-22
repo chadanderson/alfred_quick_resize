@@ -3,10 +3,10 @@
 Author: Chad Anderson
 
 
-Allows you to quickly resize an image on your desktop using Alfred.
+Allows you to quickly resize images on your desktop using Alfred.
 
 == Description ==
-Quickly resize an image on your desktop using Alfred.
+Quickly resize images on your desktop using Alfred.
 
 
 
@@ -18,3 +18,7 @@ Sample Use: qresize 200 logo.jpg
 
 // Resizes logo.jpg located on desktop to a max-width/height of 200 pixels
 
+
+Sample Use: resize 200 *.jpg
+
+// Resizes all images with .jpg extension to max-width/height of 200 pixels
