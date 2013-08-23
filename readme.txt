@@ -14,11 +14,16 @@ Quickly resize images on your desktop using Alfred.
 Keyword: resize
 Query: MAX-DIMENSION IMAGE-NAME
 
-Sample Use: qresize 200 logo.jpg
+Sample Use: qr 200 logo.jpg
 
 // Resizes logo.jpg located on desktop to a max-width/height of 200 pixels
 
 
-Sample Use: qresize 200 *.jpg
+Sample Use: qr 200 *.jpg
 
-// Resizes all images with .jpg extension to max-width/height of 200 pixels
+// Resizes all images on desktop with .jpg extension to max-width/height of 200 pixels
+
+
+Sample Use: qr 200 *.*
+
+// Resizes all images on desktop with any file extension to max-width/height of 200 pixels
