@@ -11,7 +11,7 @@ Quickly resize images on your desktop using Alfred.
 
 
 == How to Use ==
-Keyword: resize
+Keyword: qr
 Query: MAX-DIMENSION IMAGE-NAME
 
 Sample Use: qr 200 logo.jpg
